@@ -10,3 +10,7 @@ Web-based PDF reader with an instant translation pop-up.
 ## Environment (optional)
 
 - `LIBRETRANSLATE_URL` (default: `https://libretranslate.de/translate`)
+
+## Deploy
+
+This project deploys cleanly on Vercel (Next.js default settings).
